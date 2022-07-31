@@ -1,61 +1,61 @@
-import React from 'react'
-import "../Navbar.css"
-import pilot from "../assets/pilot.webp"
-import { NavLink } from 'react-router-dom'
+// import React from 'react'
+// import "../Navbar.css"
+// import pilot from "../assets/pilot.webp"
+// import { NavLink } from 'react-router-dom'
 
 
 
-function Navbar() {
+// function Navbar() {
 
-  return (
-    <nav className='navbar'>
+//   return (
+//     <nav className='navbar'>
        
        
-<div className='links'>
-  <div>
+// <div className='links'>
+//   <div>
 
-    <img src={pilot} alt="" className='logo' />
-    </div>
-    <div>
-        <NavLink
-        to="/"
-        className="navlink"
+//     <img src={pilot} alt="" className='logo' />
+//     </div>
+//     <div>
+//         <NavLink
+//         to="/"
+//         className="navlink"
         
-        >
-        HOME
-      </NavLink>
-      </div>
-      <div>
-        <NavLink
-        to="/booking"
-        className="navlink"
+//         >
+//         HOME
+//       </NavLink>
+//       </div>
+//       <div>
+//         <NavLink
+//         to="/booking"
+//         className="navlink"
         
-      >
-        BOOKING</NavLink>
-      </div>
-       <div>
-        <NavLink
-        to="/showbooking"
-        className="navlink"
+//       >
+//         BOOKING</NavLink>
+//       </div>
+//        <div>
+//         <NavLink
+//         to="/showbooking"
+//         className="navlink"
         
-      >
-        BOOKINGLIST</NavLink>
-      </div>
-      <div>
-       <NavLink
-        to="/about"
+//       >
+//         BOOKINGLIST</NavLink>
+//       </div>
+//       <div>
+//        <NavLink
+//         to="/about"
         
-    className="navlink"
-      >
-        ABOUT
-      </NavLink>
-</div>
-    </div>    
+//     className="navlink"
+//       >
+//         ABOUT
+//       </NavLink>
+// </div>
+//     </div>    
    
     
-   </nav>
+//    </nav>
     
-  )
-}
+//   )
+// }
 
-export default Navbar
+// export default Navbar
