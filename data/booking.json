@@ -1,0 +1,56 @@
+{
+  "formData": [
+    {
+      "id": 2,
+      "firstName": "Innocent",
+      "middleName": "Dennis",
+      "lastName": "mutinda",
+      "email": "mutindahdennis@gmail.com",
+      "idNo": "3567890",
+      "passportNo": "4567890",
+      "mobileNo": "0741991874",
+      "depature": "Arusha",
+      "destination": "Nairobi",
+      "travelDate": "2022-07-14"
+    },
+    {
+      "id": 3,
+      "firstName": "Dennis",
+      "middleName": "Mwendwa",
+      "lastName": "Innocent",
+      "email": "mutindahdennis@gmail.com",
+      "idNo": "345678",
+      "passportNo": "4689021",
+      "mobileNo": "0741991874",
+      "depature": "Nairobi",
+      "destination": "Neyyork",
+      "travelDate": "2022-08-04"
+    },
+    {
+      "id": 4,
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "email": "",
+      "idNo": "",
+      "passportNo": "",
+      "mobileNo": "",
+      "depature": "",
+      "destination": "",
+      "travelDate": ""
+    },
+    {
+      "id": 5,
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "email": "",
+      "idNo": "",
+      "passportNo": "",
+      "mobileNo": "",
+      "depature": "",
+      "destination": "",
+      "travelDate": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+.navbar{
+    background-image: url("./assets/sacha-verheij-5bwgW8_9OPs-unsplash.jpg");
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+   
+}
+.links{
+    
+    align-items: center;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.navlink{
+
+text-decoration: none;
+color: white;
+
+
+
+}
+
+.logo{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 10px;
+    
+}

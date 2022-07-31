@@ -1,0 +1,12 @@
+
+.footer{
+    background-image: url("./assets/sacha-verheij-5bwgW8_9OPs-unsplash.jpg");
+    font-family: 'Fjalla One',sans-serif;
+    display: flex;
+   font-size: 20px;
+   justify-content: space-around;
+    min-width: 400px;
+    margin: 0px;
+    color:white ;
+    
+}

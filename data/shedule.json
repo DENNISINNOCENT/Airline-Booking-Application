@@ -1,0 +1,67 @@
+{
+    "schedule":[
+        {   
+            "id":1,
+            "date":"28,july,2022",
+            "depature":"Nairobi",
+            "depatureTime":"2200hrs",
+            "destination":"Dubai",
+            "arrivalTime":"0500hrs"
+            
+        },
+         {
+            "id":2,
+            "date":"29,july,2022",
+            "depature":"Nairobi",
+            "depatureTime":"0200hrs",
+            "destination":"NewYork",
+            "arrivalTime":"1100hrs"
+            
+        },
+         {
+            "id":3,
+            "date":"30,july,2022",
+            "depature":"Malawi",
+            "depatureTime":"2300hrs",
+            "destination":"victoria",
+            "arrivalTime":"0400hrs"
+            
+        },
+         {
+            "id":4,
+            "date":"01,August,2022",
+            "depature":"Nairobi",
+            "depatureTime":"2200hrs",
+            "destination":"Arusha",
+            "arrivalTime":"2300hrs"
+            
+        },
+         {
+            "id":5,
+            "date":"02,August,2022",
+            "depature":"Arusha",
+            "depatureTime":"2200hrs",
+            "destination":"Angelas",
+            "arrivalTime":"0600hrs"
+            
+        },
+         {
+            "id":6,
+            "date":"03,August,2022",
+            "depature":"Nairobi",
+            "depatureTime":"2200hrs",
+            "destination":"Dubai",
+            "arrivalTime":"0500hrs"
+            
+        },
+         {
+            "id":7,
+            "date":"04,August,2022",
+            "depature":"Nairobi",
+            "depatureTime":"2200hrs",
+            "destination":"Dubai",
+            "arrivalTime":"0500hrs"
+            
+        }
+]
+}
