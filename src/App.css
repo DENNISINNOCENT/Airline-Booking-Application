@@ -27,7 +27,7 @@
 .About h2{
     margin:1rem;
 }
-/* .App{
+.App{
     background-color: var(--appColor);
     mix-blend-mode: overlay;
     overflow: hidden;
@@ -35,7 +35,7 @@
 }
 ::-webkit-scrollbar{
     display: none;
-} */
+}
 
 .home{
     
