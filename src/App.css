@@ -9,7 +9,7 @@
     
 
 }
-/* 
+
 .About{
     color: white;
     margin: 0%;
@@ -27,7 +27,7 @@
 .About h2{
     margin:1rem;
 }
-.App{
+/* .App{
     background-color: var(--appColor);
     mix-blend-mode: overlay;
     overflow: hidden;
@@ -35,7 +35,7 @@
 }
 ::-webkit-scrollbar{
     display: none;
-}
+} */
 
 .home{
     
@@ -151,4 +151,4 @@ border-radius: 10px;
 .booklist{
     margin-top: 3em;
     font-size: 25px;
-} */ */
+} */
