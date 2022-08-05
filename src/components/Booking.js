@@ -19,7 +19,7 @@ const[formErrors,setFormErrors]=useState({})
 const[isSubmit,setIsSubmit]=useState(false)
 function handleSubmit(event){
 event.preventDefault()
-fetch("http://localhost:8000/formData",{
+fetch("https://sheltered-lake-59954.herokuapp.com/formData",{
     method:"POST",
     headers:{
         "Content-Type":"application/json"

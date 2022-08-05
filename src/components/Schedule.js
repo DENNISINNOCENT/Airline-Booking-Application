@@ -4,7 +4,7 @@ import React,{useEffect,useState} from 'react'
 function Schedule() {
 const[scheduledata,setScheduleData]=useState([])
     useEffect(()=>{
-        fetch(" http://localhost:8004/schedule")
+        fetch(" https://sheltered-lake-59954.herokuapp.com/schedule")
         .then((response)=>response.json())
         .then((scheduledata)=>setScheduleData(scheduledata))
 

@@ -25,32 +25,7 @@
       "depature": "Nairobi",
       "destination": "Neyyork",
       "travelDate": "2022-08-04"
-    },
-    {
-      "id": 4,
-      "firstName": "",
-      "middleName": "",
-      "lastName": "",
-      "email": "",
-      "idNo": "",
-      "passportNo": "",
-      "mobileNo": "",
-      "depature": "",
-      "destination": "",
-      "travelDate": ""
-    },
-    {
-      "id": 5,
-      "firstName": "",
-      "middleName": "",
-      "lastName": "",
-      "email": "",
-      "idNo": "",
-      "passportNo": "",
-      "mobileNo": "",
-      "depature": "",
-      "destination": "",
-      "travelDate": ""
     }
+    
   ]
 }
